@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "636413256274",
+    "project_id": "demogetx",
+    "storage_bucket": "demogetx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636413256274:android:0b819941c883f61804f58b",
+        "android_client_info": {
+          "package_name": "com.example.demogetx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636413256274-fs1feddifg7u6p5te3v6nd5kvq3hqueq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demogetx",
+            "certificate_hash": "6f1213b602cbf7b1271ab7b14834ed4db622c40e"
+          }
+        },
+        {
+          "client_id": "636413256274-e1jf7vbl33snu2c15h4ukr2a07fqsr04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvWODVIUqHcIgYkFediGG6ceBm36PTLDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636413256274-e1jf7vbl33snu2c15h4ukr2a07fqsr04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
